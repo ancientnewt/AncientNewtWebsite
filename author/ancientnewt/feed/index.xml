@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Ancient Newt Indie Game Developer.</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>ancientnewt &#8211; Ancient Newt Indie Game Developer.</title>
+	<atom:link href="/author/ancientnewt/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Indie Game Developer of Fill the Cat Box!</description>
 	<lastBuildDate>Sat, 18 Nov 2023 04:05:37 +0000</lastBuildDate>
